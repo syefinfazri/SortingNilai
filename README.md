@@ -6,9 +6,9 @@
 - Dosen Pengampu: Shinta Ayuningtias, S.Kom., M.Kom
 # Kesimpulan
 Program ini dibuat untuk mengolah data nilai mahasiswa menggunakan algoritma Bubble Sort. Program akan menerima sebuah array berisi minimal 7 nilai, kemudian melakukan proses pengurutan dalam dua bentuk:
-- Sorting Ascending: Mengurutkan nilai dari yang paling kecil ke terbesar.
-- Sorting Descending: Mengurutkan nilai dari yang paling besar ke terkecil.
-Selama proses sorting, program juga menghitung jumlah pertukaran (swap) yang terjadi sebagai indikator banyaknya iterasi dalam proses pengurutan. Setelah proses sorting selesai, program menampilkan:
+a. Sorting Ascending: Mengurutkan nilai dari yang paling kecil ke terbesar.
+b. Sorting Descending: Mengurutkan nilai dari yang paling besar ke terkecil.
+- Selama proses sorting, program juga menghitung jumlah pertukaran (swap) yang terjadi sebagai indikator banyaknya iterasi dalam proses pengurutan. Setelah proses sorting selesai, program menampilkan:
 - Hasil sorting ascending
 - Hasil sorting descending
 - Jumlah swap masing-masing proses
