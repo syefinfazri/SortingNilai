@@ -9,10 +9,11 @@ Program ini dibuat untuk mengolah data nilai mahasiswa menggunakan algoritma Bub
 - Sorting Ascending: Mengurutkan nilai dari yang paling kecil ke terbesar.
 - Sorting Descending: Mengurutkan nilai dari yang paling besar ke terkecil.
 
-  Selama proses sorting, program juga menghitung jumlah pertukaran (swap) yang terjadi sebagai indikator banyaknya iterasi dalam proses pengurutan. Setelah proses sorting selesai, program menampilkan:
+Selama proses sorting, program juga menghitung jumlah pertukaran (swap) yang terjadi sebagai indikator banyaknya iterasi dalam proses pengurutan. Setelah proses sorting selesai, program menampilkan:
 - Hasil sorting ascending
 - Hasil sorting descending
 - Jumlah swap masing-masing proses
 - Nilai tertinggi
 - Nilai terendah
-  Program ini bertujuan membantu memahami cara kerja algoritma bubble sort, proses pertukarannya, dan hasil dari pengurutan data secara sistematis.
+
+Program ini bertujuan membantu memahami cara kerja algoritma bubble sort, proses pertukarannya, dan hasil dari pengurutan data secara sistematis.
